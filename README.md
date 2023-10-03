@@ -1,6 +1,6 @@
    <div align="center">
    
-   ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
+   ### RANDY BOT 🤴🪀 By SL_RAVANA_TEAME            
    [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Repo%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
    
  [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
